@@ -51,4 +51,5 @@
 *Day50-Create Non Repeating Character(own)
 *Day51-Linked List Length Even or Odd?(own)
 *Day52-Beautiful Days at the Movies
-*day53-Intersection of two arrays(50 out of 90 own)
+*Day53-Intersection of two arrays(50 out of 90 own)
+*Day54-Single Number
