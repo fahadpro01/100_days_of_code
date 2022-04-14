@@ -56,3 +56,4 @@
 *Day55-Selection sort (Own)
 *Day56-Check if string is rotated by two places (own)
 *Day57-Key Pair(own)
+*Day58-Front-Back Transformation - copy
