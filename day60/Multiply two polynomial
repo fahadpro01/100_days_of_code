@@ -1,0 +1,16 @@
+class Solution{
+    public:
+    vector<int>polyMultiply(int Arr1[], int Arr2[], int M, int N)
+    {
+        
+        vector<int>ans(M+N);
+        for(int i=0;i<M;i++){
+            for(int j=0;j<N;j++){
+                ans[i+j]+=Arr1[i]*Arr2[j];
+            }
+           
+        }
+         return ans;
+        // code here
+    }
+};
