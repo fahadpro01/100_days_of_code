@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  int i,j;
+  cin>>i;
+  cin>>j;
+  i=i+j;
+   cout<<i<<endl;;
+  j=i-j;
+  cout<<j<<endl;;
+  i=i-j;
+  cout<<i<<endl;;
+  
+}
