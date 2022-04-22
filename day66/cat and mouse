@@ -1,0 +1,11 @@
+string catAndMouse(int x, int y, int z) {
+   int diffA= abs(z-x);
+   int diffB=abs(z-y);
+   if(diffA<diffB)
+     return "Cat A";
+   else if(diffA>diffB)
+     return "Cat B";
+    else
+    return "Mouse C";
+
+}
