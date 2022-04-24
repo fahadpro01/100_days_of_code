@@ -1,0 +1,30 @@
+	int isPanagram(string S)
+	{
+	    // Your code goes here 
+	 /*  unordered_set<char>st;
+	   for(int i=0;i<S.size();i++)
+	       if(isalpha(S[i]))
+	       st.insert(tolower(S[i]));
+	        return st.size()==26 ? 1:0;
+	        */
+	      /*  int arr[26]={0};
+	        for(int i=0;i<S.size();i++){
+	            if(islower(S[i]))
+	            {
+	                arr[S[i]-'a']++;
+	            }
+	            else if(isupper(S[i]))
+	            {
+	                arr[S[i]-'A']++;
+	            }
+	            
+	        }
+	        for(int i=0;i<26;i++){
+	            if(arr[i]==0)
+	            return 0;
+	        }
+	            return 1;
+	       
+	       
+	}
+	*/
