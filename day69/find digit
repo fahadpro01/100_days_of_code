@@ -1,0 +1,14 @@
+int findDigits(int n) {
+    int copy=n,count=0,temp;
+    while(copy>0){
+        temp= copy%10;
+        if(temp==0){
+             copy=copy/10;  
+             continue;
+        }
+        if(n%temp==0)
+            count++;
+        copy=copy/10;   
+    }
+    return count;
+}
