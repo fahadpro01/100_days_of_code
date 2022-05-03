@@ -68,3 +68,4 @@
 *Day67-Panagram(own)
 *Day68- PDF
 *Day69-Find digit
+*Day70-Viral ad
