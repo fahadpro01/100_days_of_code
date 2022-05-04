@@ -69,3 +69,4 @@
 *Day68- PDF
 *Day69-Find digit
 *Day70-Viral ad
+*Day71-angry prof
