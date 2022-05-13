@@ -71,3 +71,4 @@
 *Day70-Viral ad
 *Day71-angry prof
 *Day72-Hamming Distance
+*Day73-HCF
