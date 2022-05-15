@@ -73,3 +73,4 @@
 *Day72-Hamming Distance
 *Day73-HCF
 *Day74-LCM
+*Day75-Automorphic(own)
