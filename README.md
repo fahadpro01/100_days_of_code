@@ -74,3 +74,4 @@
 *Day73-HCF
 *Day74-LCM
 *Day75-Automorphic(own)
+*Day76-Trailing Zeros
