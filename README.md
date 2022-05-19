@@ -76,3 +76,4 @@
 *Day75-Automorphic(own)
 *Day76-Trailing Zeros
 *Day77-Funny String
+*Day78-Triangular Number(own)
