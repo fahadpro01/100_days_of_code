@@ -77,3 +77,4 @@
 *Day76-Trailing Zeros
 *Day77-Funny String
 *Day78-Triangular Number(own)
+*Day79-find the median for odd(own)
