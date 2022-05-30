@@ -1,0 +1,25 @@
+public:
+    string reciprocalString(string S)
+    {
+        int i;// Write Your code here
+      
+        for( i=0;i<S.length();i++){
+        if(isupper(S[i])){
+            S[i]= 'Z'-S[i]+'A';
+        }
+            
+        
+        else
+        if(islower(S[i])){
+            S[i]= 'z'-S[i]+'a';
+        }
+            
+        
+        else{
+            S[i]=S[i];
+        }
+    }
+          return S;
+          
+        
+    }
