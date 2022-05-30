@@ -1,0 +1,11 @@
+int lonelyinteger(vector<int> a) {
+unordered_map<int,int>map;
+for(int i=0;i<a.size();i++){
+    map[a[i]]++;
+}
+for(auto i: map){
+    if(i.second==1)
+    return i.first;
+}
+return 0;
+}
