@@ -1,0 +1,17 @@
+vector<int> missingNumbers(vector<int> arr, vector<int> brr) {
+    unordered_map<int,int>map1,map2;
+    vector<int>ans;
+    for(int i=0;i<arr.size();i++){
+        map1[arr[i]]++;
+    }
+    for(int i=0;i<brr.size();i++){
+        map2[brr[i]]++;
+    }
+    for(auto i: map2){
+        if(i.second !=map1[i.first])
+        ans.push_back(i.first);
+    }
+    sort(ans.begin(),ans.end());
+    return ans;
+
+}
