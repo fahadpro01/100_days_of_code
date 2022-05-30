@@ -85,4 +85,5 @@
 *Day84-Lonely integer Hashmap
 *Day85-missing number hashmap(own)
 *Day86-2D array in vector
-*Day87at least 2 greater DSA(own)
+*Day87-at least 2 greater DSA(own)
+*Day88-Compete the skills (own)
