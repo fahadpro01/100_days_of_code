@@ -90,4 +90,4 @@
 *Day89-Print the left element(own)
 *Day90-Program to print reciprocal of letters - copy(own)
 *Day91-Addition os submatrix (Own),Magic string(own)
-*Day92-Rearrange array (formula)
+*Day92-Rearrange array (formula),rearrange array using stack
