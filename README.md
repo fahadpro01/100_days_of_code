@@ -97,3 +97,4 @@
 *Day96-merge without extra space(hard)
 *Day97-basic xor(own)
 *Day98-Addition of two square matrix + reverse of string (own both)
+*Day99-Count pairs in array divisible by K(own)
