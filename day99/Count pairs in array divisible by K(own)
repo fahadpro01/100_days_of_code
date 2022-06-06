@@ -1,0 +1,18 @@
+class Solution
+{
+    public:
+    long long countKdivPairs(int A[], int n, int K)
+    {
+        //code here
+       unordered_map<int,int>map;
+       long long ans=0,rem1=0;
+       for(int i=0;i<n;i++){
+              rem1=A[i]%K;
+                  ans += map[(K-rem1)%K];
+                
+                 map[rem1]++;
+             
+       }
+       return ans;
+    }
+};
