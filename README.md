@@ -98,3 +98,4 @@
 *Day97-basic xor(own)
 *Day98-Addition of two square matrix + reverse of string (own both)
 *Day99-Count pairs in array divisible by K(own)
+*Day100- max min (Own with 4 logics)
